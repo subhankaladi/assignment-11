@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from "next/server";
+import { NextResponse } from "next/server";
 
 const API_URL = "https://jsonplaceholder.typicode.com/posts"
 
